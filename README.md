@@ -6,7 +6,7 @@
 
 ---
 
-### Dieses Projekt bestand aus Debugging und gleichzeitiger programmierung des Random Background Color Changer.
+### Dieses Projekt bestand aus Basic Debugging und gleichzeitiger Programmierung des random Background Color Changer.
 
 ```javascript
 const darkColorsArr = [
