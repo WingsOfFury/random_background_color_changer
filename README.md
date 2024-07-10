@@ -1,5 +1,5 @@
 # Random_Background_Color_Changer
-Dieses Projekt bestand aus Basic Debugging und gleichzeitiger Programmierung des random Background Color Changer.
+Dieses Projekt bestand aus Basic Debugging und gleichzeitiger Programmierung des Random Background Color Changer.
 
 
 
